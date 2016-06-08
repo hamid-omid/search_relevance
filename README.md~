@@ -15,7 +15,7 @@ This is the source code for the HomeDepot's data science challenge on Kaggle
 Overview of the ML pipeline:
 ---------------------------
 
-![alt tag](https://github.com/rmanak/search_relevance/blob/master/img/ML_homedepot.png)
+![alt tag](Pipe_line_img/ML_homedepot.png)
 
 As you can see the feature engineering part involves 4 parts:
 
